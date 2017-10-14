@@ -1,0 +1,40 @@
+img {
+    cursor: pointer;
+}
+
+.logo{
+    width: 20%;
+    height: 220px;
+    left: 0%;
+    top: 0%;
+}
+
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+
+#wla{
+    color: #A0C1EA;
+    font-size: 30px;
+}
+
+#cp{
+    position: absolute;
+    right: 10%;
+    top: 2%;    
+}
+/*
+body{
+    background-image: url(images/logo.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+}*/
+#cp h1{
+    font-size: 70px;
+    color: #198ED4;
+}
+#cp h1 h2{
+    font-size: 50px;
+    color: #198ED4;
+}
